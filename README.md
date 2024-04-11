@@ -1,2 +1,4 @@
 # shreepractice
-prcatice sessions
+practice sessions
+
+homework is done all here 
